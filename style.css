@@ -1,0 +1,55 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+
+.head-section{
+  display: flex;
+}
+.wellcome-color{
+    padding-top: 63px;
+    text-align: center;
+    font-weight: 900;
+}
+.wellcome-color b{
+    color: red;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+.wellcome-color span{
+    color: rgb(0, 140, 255);
+    font-size: 30px;
+    font-size: 24px;
+    font-style: italic;
+    
+    }
+.wellcome-head{
+    width: 50%;
+    padding-left: 6%;
+
+}
+.wellcome-head img {
+    width: 100%;
+    padding-top: 30px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 8px 40px;
+    background-image: linear-gradient(red ,#f7de59);
+    border-radius: 6px;
+    color: #fff;
+    margin: 30px;
+    }
+.well-bg{
+    background-image: url(images/wellcome-bg.png);
+    background-repeat: no-repeat;
+}
+.well-bg2{
+    background-image: url(images/wellcome-bg2.png);
+    background-repeat: no-repeat;
+}
+.head-deatils{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 26px;
+}

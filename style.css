@@ -1,5 +1,6 @@
 body{
     font-family: 'Oxygen', sans-serif;
+    margin-left: 0;
 }
 
 .head-section{
@@ -53,3 +54,34 @@ body{
     font-size: 14px;
     line-height: 26px;
 }
+
+
+/* /cokker  about */
+.section-about{
+   width: 100%;
+   /* background:palegreen; */
+   background-image: url(images/7.png);
+   background-repeat: no-repeat;
+   display: flex;
+  
+   
+}
+.cook-about{
+ width: 100%;
+ padding-left: 6%;
+ padding-left: 7%;
+ padding-right: 10%;
+ margin-top: 33px;
+ /* background-image: url(images/cook.png);
+ background-repeat: no-repeat; */
+
+    
+}
+.cook-about img{
+    width: 116%;
+    padding-left: 15px;
+    padding-right: 30px;
+   
+       
+   }
+  

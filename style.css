@@ -1,6 +1,6 @@
 body{
     font-family: 'Oxygen', sans-serif;
-    margin-left: 0;
+   margin: 0G139;
 }
 
 .head-section{
@@ -125,16 +125,62 @@ body{
     font-style: italic;
 
 }
+
+.special-menu{
+   
+    padding: 30px;
+}
+.menu-head{
+    text-align: center;
+    margin-top: 70px;
+   font: 1em sans-serif;
+   font-style: italic;
+  }
+  .menu-head h2{
+   color:#f05214 ;
+  }
+.menu-item{
+    width: 100%;
+    margin-top: 58px;
+    margin-left: 100px;
+    border-radius: 8px;
+    margin-right: 65px;
+
+}
+.menu-item img{
+    width: 100px;
+    height: 101px;
+    float: left;
+    padding: 21px;
+    border-radius: 68px;
+}
+.menu-item span{
+    float: left;
+}
+.menu-item1{
+    width: 100%;
+    float: left;
+    background-image: linear-gradient(to left,#44aff0,white );
+    margin-top: 5px;
+    border-radius: 7px;
+    
+}
+.order-button{
+    text-decoration: none;
+    padding: 7px 6px;
+    background-image: linear-gradient(red ,#f7de59);
+    border-radius: 6px;
+    color: #fff;
+    font-size: 11px;
+}
 .footer-conner{
     text-align: center;
     background: #e8baa8;
     padding: 17px;
     margin-top: 63px;
     height: 80px;
+    margin-bottom: 0;
 }
 .footer-conner span{
     color: red;
-}
-.footer-conner p{
-   padding: 12px;
 }
